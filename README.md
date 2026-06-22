@@ -1,5 +1,5 @@
 
- Hey there! 👋
+ <h1 align="center">Hey there! 👋</h2>
  <br><br>I'm Amitha, a BTech student passionate about software development, AI, and problem-solving.<br><br>🔹 Currently building AI-powered projects and web applications<br>🔹 Learning DSA & Full-Stack Development<br>🔹 Exploring Software Engineering and AI technologies<br>🔹 Aspiring to build impactful products and grow as a developer<br><br>Eager to learn, collaborate, and create meaningful projects. 🚀<br><br><br>
 
 
