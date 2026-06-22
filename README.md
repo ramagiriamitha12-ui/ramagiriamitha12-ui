@@ -3,7 +3,7 @@
  <br><br>I'm Amitha, a BTech student passionate about software development, AI, and problem-solving.<br><br>🔹 Currently building AI-powered projects and web applications<br>🔹 Learning DSA & Full-Stack Development<br>🔹 Exploring Software Engineering and AI technologies<br>🔹 Aspiring to build impactful products and grow as a developer<br><br>Eager to learn, collaborate, and create meaningful projects. 🚀<br>
 
 
-## Connect with me:
+<h2>Connect with me:</h2>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amitha_.217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/amitha-ramagiri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Amitha_217) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramagiriamitha12@gmail.com) 
 
 # Tech Stack:
